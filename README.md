@@ -11,5 +11,4 @@
 
 * [Senior Backend Engineer](senior-backend-engineer.md)
 * [Senior Frontend Engineer](senior-frontend-engineer.md)
-* [Sales Representative](sales-representative.md)
 * [Marketing Specialist](digital-marketing.md)
