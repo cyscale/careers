@@ -27,7 +27,7 @@ For this, we are looking for an experienced backend developer for the Cyscale Po
 
 - Strong expertise with Golang, Linux. Also, Python expertise is considered a plus!
 - AWS, Azure, GCP Cloud or OpenStack;
-- Redis, NoSQL and SQL;
+- Redis, NoSQL and SQL. Knowledge of Graph databases is a big plus;
 - 3+ years experience delivering high value scalable systems;
 - Automated unit, integration and end-to-end tests;
 - Follow SDLC (Secure SDLC) procedures and workflows.
