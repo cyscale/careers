@@ -22,4 +22,4 @@ If you are looking for a career with an innovative and vibrant cybersecurity com
 * [Senior Frontend Engineer](senior-frontend-engineer.md)
 
 #### Marketing
-* [Marketing Specialist](digital-marketing.md)
+* [Marketing Specialist](marketing-specialist.md)
